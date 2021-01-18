@@ -4,6 +4,8 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
 Node application to quickly generate a README.md file for any project.
+
+<iframe src="https://drive.google.com/file/d/19oBNsicDcrDBxIIv5ysw68GXDMx57y2D/preview" width="640" height="480"></iframe>
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
