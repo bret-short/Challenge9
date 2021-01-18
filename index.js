@@ -1,7 +1,7 @@
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
-const generateReadme = require("./utils/generateReadme")
+const generateReadme = require("./utils/generateMarkdown")
 const writeFileAsync = util.promisify(fs.writeFile);
 
 //Prompt the user questions to populate the README.md
@@ -28,7 +28,7 @@ function promptUser(){
             message: "What is this project used for?"
         },
         {
-            type: "list",
+            type: "checkbox",
             name: "license",
             message: "Choose the appropriate license for this project: ",
             choices: [
