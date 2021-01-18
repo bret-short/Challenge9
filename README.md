@@ -4,6 +4,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
 Node application to quickly generate a README.md file for any project.
+
 ![Untitled_ Jan 17, 2021 9_00 PM](https://user-images.githubusercontent.com/73445178/104872420-19f60d00-590b-11eb-87c8-103e3ca06dcb.gif)
 
 ## Table of Contents
