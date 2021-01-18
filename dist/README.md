@@ -1,9 +1,9 @@
 
-<h1 align="center">README Generator 👋</h1>
+<h1 align="center">README Generator</h1>
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Apache,MIT-brightgreen)<br />
 ## Description
-🔍 A node application using JavaScript to create a nice looking README.md file for new projects.
+Node application that uses prompts to create a detailed README.md file for any project.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,22 +13,20 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 Install the proper packages before running the application including inquirer, axios and util.
+Be sure to install the inquirer, axios and util npm packages before running the application.
 ## Usage
-💻 Project is used to creat new README.md files for new projects.
+Project is used to create README.md files for new projects.
 ## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Apache,MIT-brightblue)
 <br />
-This application is covered by the MIT license. 
+This application is covered by the Apache,MIT license. 
 ## Contributing
-👪 Bret Short
+Bret Short
 ## Tests
-✏️ Before testing be sure to install the proper packages.
+Be sure to answer all questions to get the best readme file generated
 ## Questions
-✋ undefined<br />
+- For any further questions you can contact me on:
+  GitHub: [bret-short](https://github.com/bret-short)<br />
 <br />
-:octocat: Find me on GitHub: [bret-short](https://github.com/bret-short)<br />
-<br />
-✉️ Email me with any questions: bretstephenshort@live.com<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+  Email me with any questions: bretstephenshort@live.com<br /><br />
   
