@@ -27,10 +27,10 @@ ${answers.contributing}
 ## Tests
 ${answers.tests}
 ## Questions
-- For any further questions you can contact me on:
-  GitHub: [${answers.username}](https://github.com/${answers.username})<br />
+For any further questions you can contact me on:<br />
+  -GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
-  Email me with any questions: ${answers.email}<br /><br />
+  -Email me with any questions: ${answers.email}<br /><br />
   `;
 }
 
